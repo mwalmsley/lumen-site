@@ -28,10 +28,10 @@ module.exports = {
         photo: '/test.jpg',
         bio: 'Test bio',
         contacts: {
-          email: 'mike.walmsley@physics.ox.ac.uk',
+          email: '#',
           telegram: '#',
-          twitter: 'www.twitter.com/mike_w_ai',
-          github: 'www.github.com/mwalmsley',
+          twitter: '#',
+          github: '#',
           rss: '#',
           vkontakte: '#'
         }
