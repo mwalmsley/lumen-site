@@ -7,7 +7,7 @@ module.exports = {
       title: 'Test title',
       subtitle: 'Test subtitle',
       copyright: 'Test copyright',
-      disqusShortname: '',
+      disqusShortname: 'walmsley',
       postsPerPage: 4,
       menu: [
         {
@@ -28,10 +28,10 @@ module.exports = {
         photo: '/test.jpg',
         bio: 'Test bio',
         contacts: {
-          email: '#',
+          email: 'mike.walmsley@physics.ox.ac.uk',
           telegram: '#',
-          twitter: '#',
-          github: '#',
+          twitter: 'www.twitter.com/mike_w_ai',
+          github: 'www.github.com/mwalmsley',
           rss: '#',
           vkontakte: '#'
         }
