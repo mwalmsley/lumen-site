@@ -3,10 +3,10 @@
 module.exports = {
   site: {
     siteMetadata: {
-      url: 'http://localhost',
-      title: 'Test title',
+      url: 'https://walmsley.dev',
+      title: 'Walmsley',
       subtitle: 'Test subtitle',
-      copyright: 'Test copyright',
+      copyright: 'Copyright Mike Walmsley 2019',
       disqusShortname: 'walmsley',
       postsPerPage: 4,
       menu: [
@@ -24,7 +24,7 @@ module.exports = {
         }
       ],
       author: {
-        name: 'Test name',
+        name: 'Mike Walmsley',
         photo: '/test.jpg',
         bio: 'Test bio',
         contacts: {
