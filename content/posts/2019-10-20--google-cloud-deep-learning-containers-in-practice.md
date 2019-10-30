@@ -1,11 +1,11 @@
 ---
 template: post
-title: GCR; Permission Denied - Unable to Determine Upload Size
-slug: /posts/gcr_permission_denied_upload_size/
+title: Google Cloud Deep Learning Containers in Practice
+slug: /posts/google-cloud-dl-containers/
 draft: False
-date: '2019-09-22T23:46:37.121Z'
+date: '2019-09-25T23:46:37.121Z'
 description: >-
-    Why this error happens and how to fix it
+   A practical workflow for running on Google Cloud
 category: cloud
 tags:
   - google cloud
