@@ -7,6 +7,11 @@
 
 ## Quick Start
 
+Install 
+https://www.gatsbyjs.org/docs/gatsby-on-linux/
+https://www.gatsbyjs.org/docs/quick-start
+
+
 #### Create a Gatsby site
 
 Use the Gatsby CLI to create a new site, specifying the Lumen starter.
