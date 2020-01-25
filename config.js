@@ -7,7 +7,7 @@ module.exports = {
   copyright: '© Mike Walmsley All rights reserved.',
   disqusShortname: 'walmsley',
   postsPerPage: 6,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-111766463-3',
   menu: [
     {
       label: 'Articles',
@@ -28,11 +28,11 @@ module.exports = {
     bio: 'I like solving interesting problems with data. Currently using deep learning to understand galaxy evolution.',
     contacts: {
       email: 'mike.walmsley@physics.ox.ac.uk',
-      telegram: '#',
+      // telegram: '#',
       twitter: 'www.twitter.com/mike_w_ai',
       github: 'www.github.com/mwalmsley',
-      rss: '#',
-      vkontakte: '#'
+      // rss: '#',
+      // vkontakte: '#'
     }
   }
 };
