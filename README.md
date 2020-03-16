@@ -11,6 +11,13 @@ Install
 https://www.gatsbyjs.org/docs/gatsby-on-linux/
 https://www.gatsbyjs.org/docs/quick-start
 
+Install latest nvm, and then:
+    nvm use 10
+    npm install gatsby
+    npm install
+    npm update gatsby-plugin-netlify-cms
+    gatsby develop
+    gatsby build
 
 #### Create a Gatsby site
 
